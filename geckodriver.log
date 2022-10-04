@@ -1,0 +1,26 @@
+1664913065271	geckodriver	INFO	Listening on 127.0.0.1:50237
+1664913065306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50238" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bh/1q6fwmdn5q55qhsc0sx22q5w0000gn/T/rust_mozprofilezmO2Be"
+1664913068123	Marionette	INFO	Marionette enabled
+1664913068154	Marionette	INFO	Listening on port 50249
+Read port: 50249
+WebDriver BiDi listening on ws://127.0.0.1:50238
+1664913068337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bh/1q6fwmdn5q55qhsc0sx22q5w0000gn/T/rust_mozprofilezmO2Be/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50238/devtools/browser/1065807b-dae7-4e8a-8f9c-e74fff14f4b2
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1664215025, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1664215025, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1664913081482	Marionette	INFO	Stopped listening on port 50249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664913299732	geckodriver	INFO	Listening on 127.0.0.1:50398
+1664913300249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50399" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bh/1q6fwmdn5q55qhsc0sx22q5w0000gn/T/rust_mozprofilehzU15O"
+1664913300598	Marionette	INFO	Marionette enabled
+1664913300629	Marionette	INFO	Listening on port 50406
+Read port: 50406
+WebDriver BiDi listening on ws://127.0.0.1:50399
+1664913300785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/bh/1q6fwmdn5q55qhsc0sx22q5w0000gn/T/rust_mozprofilehzU15O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50399/devtools/browser/d6049b3f-1578-489e-9396-c406c97944bb
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1664913302878	Marionette	INFO	Stopped listening on port 50406
