@@ -33,4 +33,4 @@ def test_guest_should_see_login_link(browser, link):
     text = text_element.text
     
     assert text == "Correct!", text
-
+    
